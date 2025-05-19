@@ -1,0 +1,2 @@
+../Core/Src/uart_message.c:18:6:sendDebugMessage	1
+../Core/Src/uart_message.c:27:6:sendSpecifiedMessage	1

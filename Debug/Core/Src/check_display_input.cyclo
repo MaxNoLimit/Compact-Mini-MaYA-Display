@@ -1,0 +1,5 @@
+../Core/Src/check_display_input.c:15:6:calibrateDisplay	3
+../Core/Src/check_display_input.c:31:6:displayInputCheck	42
+../Core/Src/check_display_input.c:110:6:waitUntilTapAnywhere	2
+../Core/Src/check_display_input.c:116:6:isPlaying	3
+../Core/Src/check_display_input.c:121:6:setPlayingStatus	1
